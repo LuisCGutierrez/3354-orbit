@@ -15,6 +15,11 @@ now do it all from one place.
 
 ---
 
+## Presentation
+<a href="https://docs.google.com/presentation/d/1Nm8iG0FsugJI9sGNoPl1dn_7aW6QF9LzVhhuRmxCe0Y/edit?usp=sharing">Link to Presentation</a>
+
+---
+
 ## Contributors
 **Orbit Team**  
 *Donald Berthelsen, Cooper Brice, Luis Gutierrez, Skyler Lee, Kevin Manjit, Joseph Park, Carlos Vazquez*
